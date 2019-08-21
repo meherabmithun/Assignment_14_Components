@@ -1,0 +1,80 @@
+/* slider start */
+.slider{
+	background-image: url(../images/banner.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.row{
+	margin-bottom: 20px;
+}
+.car_ind li{
+	width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.content{
+	margin: 120px 0;
+    padding: 0 54px;
+}
+.h1{
+	color: #ffffff;
+    margin-bottom: 15px;
+    font-size: 28px;
+}
+.text{
+	color: #ffffff;
+    margin-bottom: 28px;
+    font-size: 10px;
+}
+.h4{
+   font-size: 21px;
+}
+.ccni {
+    background-color: blue;
+}
+/* slider end */
+/* alerts start */
+.alertss{
+	background-color: #2A4357;
+}
+.heading{
+	margin: 30px 0;
+	color: #ffffff;
+}
+/* alerts end */
+/* badges start */
+.badgess{
+	background-color: #676F7C;
+}
+.mhm{
+	margin-bottom: 5px;
+}
+.badge_text{
+	margin-bottom: 20px;
+}
+/* badges end */
+/* braedcrumb start */
+.breadcrumbs{
+	background-color: #121B2A;
+}
+/* braedcrumb end */
+/* button start */
+.buttonss{
+	background-color: #A0AAB4;
+}
+/* button end */
+/* card start */
+.cards{
+	background-color: #121B2A;
+}
+.text_c{
+	line-height: 19px;
+}
+/* card end */
+/* collapse start */
+.collapses{
+	background-color: #4B6679;
+}
+/* collapse end */
